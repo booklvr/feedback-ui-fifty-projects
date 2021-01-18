@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import FeedbackUI from './components/FeedbackUI'
 
 const App = () => {
-  return <placeholder />
+  return <FeedbackUI />
 }
 
 export default App
